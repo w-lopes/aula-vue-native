@@ -1,4 +1,4 @@
-# Aula básica de Vue
+# Aula básica de Vue Native
 
 Exercício rápido para entendimento de conceitos do Vue Native.
 
